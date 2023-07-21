@@ -1,7 +1,7 @@
 using AppleAuth.Enums;
 using AppleAuth.Interfaces;
 using System;
-
+Using UnityEngine
 namespace AppleAuth.Extensions
 {
     public static class AppleErrorExtensions
